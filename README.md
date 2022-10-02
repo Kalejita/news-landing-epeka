@@ -1,3 +1,15 @@
+
+Landing page de noticias.
+
+Sitio web creado en React Js con Bootstrap 5.
+
+Es necesario correr npm install para visualizar el proyecto.
+
+Se realiza el filtrado de los elementos por el título. 
+
+Se realizaron consultas a varias api para las diferentes pestañas/categorías
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
